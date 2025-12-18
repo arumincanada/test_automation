@@ -1,0 +1,35 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+workspace.xml
+tasks.xml
+usage.statistics.xml
+dictionaries/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / Playwright
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Python (if any scripts)
+__pycache__/
+*.pyc
+
+# Environment files
+.env
